@@ -1,0 +1,17 @@
+# Local working / strategy notes (kept out of the repo)
+PLAN.md
+NOTES.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
